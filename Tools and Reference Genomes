@@ -6,3 +6,7 @@ SPAdes: https://github.com/ablab/spades
 Flye: https://github.com/mikolmogorov/Flye
 QUAST: https://github.com/ablab/quast
 BLAST: https://github.com/ncbi/blast_plus_docs
+
+Links to reference files:
+E. coli BL21 Reference Whole Genome: https://www.ncbi.nlm.nih.gov/nuccore/CP001509.3
+E. coli BL21 16S Region Reference: https://www.ncbi.nlm.nih.gov/nuccore/AJ605115
